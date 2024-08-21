@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/soriamaximilianorodrigo/" target="_blank" rel="noopener noreferrer">
+<a href="https://drive.google.com/file/d/1SPx7kx8Cl8XDL4yVXQps50TtiGlDIX9R/view?usp=sharing" target="_blank" rel="noopener noreferrer">
 <img width="100%" height="100%" src="docs/img/Observability-Circuit.png" alt="Linkedin"></a></p>
 
 # Observability Circuit
